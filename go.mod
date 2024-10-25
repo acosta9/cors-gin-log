@@ -1,4 +1,4 @@
-module github.com/gin-contrib/cors
+module github.com/acosta9/cors-gin-log
 
 go 1.21.0
 
