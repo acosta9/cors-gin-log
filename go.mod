@@ -8,7 +8,7 @@ require (
 )
 
 require (
-	github.com/acosta9/cors-gin-log@v0.0.0-20240927152814-d4fb95a2411f // Indirect dependency
+	github.com/gin-contrib/cors v0.0.0-20240927152814-d4fb95a2411f // Indirect dependency
 	github.com/bytedance/sonic v1.12.3 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
